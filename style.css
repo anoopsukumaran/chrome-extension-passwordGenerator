@@ -1,0 +1,58 @@
+#container { 
+	width:250px;
+	float:left;
+	padding:10px;
+	padding-bottom:15px;
+}
+
+#container ul {
+	list-style: none; 
+	padding:0;
+	paddiing-bottom:10px;
+}
+
+#btnGenerate {
+	margin-top:15px;
+	float:left;
+	clear:both;
+}
+
+#title {
+   padding:10px;
+   color:white;
+   text-align:left;
+   font-weight:bold;
+   background-color:black;
+}
+
+#password {
+   padding:5px;
+   background:black;
+   color:white;
+   font-weight:bold;
+   float:left;
+   margin-top:10px;
+   width:240px;
+   clear:both;
+}
+
+#status {
+	color:#00ff00;
+}
+
+.classCheckbox {
+	float:left;
+	clear:both;
+}
+
+.classCheckbox label {
+	margin-left:3px;
+}
+
+.classText {
+	float:left;
+}
+
+#passwordLength {
+	margin-left:8px;
+}
